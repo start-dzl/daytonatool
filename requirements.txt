@@ -3,3 +3,5 @@ uvicorn==0.24.0
 gunicorn==21.2.0
 python-dotenv==1.0.0
 daytona-sdk 
+websockets==15.0.1
+docker==7.1.0
